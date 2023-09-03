@@ -1,4 +1,4 @@
-package com.vipulkdev.gfg;
+package com.vipulkdev.gfg.array;
 
 public class ArrayProblems {
 
